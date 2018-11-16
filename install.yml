@@ -2,10 +2,10 @@
   hosts: localhost
   gather_facts: no
   connection: local
-  become: false
+  become: true
 
   tasks:
     - name: "Install pip dependencies"
       pip:
-          name: python-libxdo
-	  version: 0.1.2a1
+        name: python-libxdo
+        version: 0.1.2a1
