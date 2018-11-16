@@ -1,0 +1,9 @@
+name: "writer"
+type: "neuron"
+author: "SpawN"
+
+kalliope_supported_version:
+    - 0.5
+
+tags:
+- "writer"

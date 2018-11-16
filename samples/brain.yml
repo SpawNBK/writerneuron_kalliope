@@ -1,0 +1,8 @@
+---
+  - name: "Write"
+    signals:
+      - order: "write text{{ query }}"
+    neurons:
+      - writer:
+          query: "{{query}}"
+
