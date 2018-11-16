@@ -10,7 +10,7 @@ Make kalliope write you text from speech
 ## Installation
 
   ```
-  kalliope install --git-url https://github.com/SpawNBK/writerneuron_kalliope
+  kalliope install --git-url https://github.com/SpawNBK/writerneuron_kalliope.git
   ```
 
 
